@@ -54,6 +54,6 @@ Hi there, I'm **Leonardo Rafael Luna Estrada**, an **Engineer in Computer System
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leo1una/Leo1una/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 ⭐ From [leo1una](https://github.com/leo1una)  
