@@ -23,7 +23,7 @@ Hi there, I'm **Leonardo Rafael Luna Estrada**, an **Engineer in Computer System
 - 📖 Author in *Avances Científicos y Tecnológicos en México (2025)*.  
 - 💼 Developer of complete systems with **Django, Laravel, REST APIs, JavaScript and MySQL**.  
 - 🎮 Gamer at heart: I mix code logic with Pac-Man strategy 👾.  
-- 📫 Reach me at: **leonardo.luna.dev@gmail.com**.  
+- 📫 Reach me at: **leo123lun@gmail.com**.  
 - 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/leonardo-rafael-luna-estrada-19a75a338).  
 
 ---
@@ -49,13 +49,11 @@ Hi there, I'm **Leonardo Rafael Luna Estrada**, an **Engineer in Computer System
 ## 👾 Pac-Man Contribution Graph  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo1una/Leo1una/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo1una/Leo1una/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leo1una/Leo1una/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_  
-
----
+###
 
 ⭐ From [leo1una](https://github.com/leo1una)  
